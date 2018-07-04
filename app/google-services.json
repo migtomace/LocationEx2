@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "134679353124",
+    "firebase_url": "https://locationex2-43d5d.firebaseio.com",
+    "project_id": "locationex2-43d5d",
+    "storage_bucket": "locationex2-43d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134679353124:android:19e9b6ad1ca47a9e",
+        "android_client_info": {
+          "package_name": "com.websitesinseattle.locationex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134679353124-f1tj4iukifjedrtfglem24cj1e6qsvu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.websitesinseattle.locationex",
+            "certificate_hash": "b9266b55aaee07e15a8391385150d41f638090e0"
+          }
+        },
+        {
+          "client_id": "134679353124-4kav086aanit9rkjv2bd7pik3vvjmr65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsfb_wc9FW14AL9yUWVf98V23aL90px34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134679353124-4kav086aanit9rkjv2bd7pik3vvjmr65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
