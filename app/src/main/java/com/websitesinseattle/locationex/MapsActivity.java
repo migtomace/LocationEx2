@@ -115,7 +115,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         } catch (IOException e) {
             e.printStackTrace();
         }
-        Toast.makeText(getApplicationContext(),lats + "",Toast.LENGTH_LONG).show();
+
         return lats;
     }
 
@@ -138,7 +138,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         } catch (IOException e) {
             e.printStackTrace();
         }
-        Toast.makeText(getApplicationContext(),longs + "",Toast.LENGTH_LONG).show();
+
         return longs;
     }
 }
